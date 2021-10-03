@@ -12,5 +12,6 @@ This analysis shows the creek segments in Clear Creek drainage in Chaffee County
 ![ClearCreek](Project_Beaver_Restoration.jpg)
 ## Turquoise Lake Nature Trail Viewshed 
 These map show the location of the Turquoise Lake Nature Trail near Leadville, Colorado, the main lookout point along the trail and the mountain peaks in view from the lookout.  
-![NatureTrail](Turqoise_Lake_NatureTrail_Viewshed)
+![NatureTrail](Turquoise_Lake_NatureTrail_Viewshed.jpg)
+
 
