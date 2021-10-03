@@ -6,5 +6,6 @@ This map depicts the vegetation change within California Park in Routt National 
 ![CaliNDVI](California_Park_NDVI_v2.jpg)
 ## Beaver Restoration Assessment Tool Data
 This map displays several of the main data layers in California Park, Routt National Forest, that were pre-processed for use in running the Beaver Restoration Assessment Tool (BRAT).  The BRAT will be run and, ultimately, this map will be used by the Forest Service in considering whether or not to use beaver reintroduction or beaver dam analogues for creek restoration.  
-![BRAT](California_Park_BRAT.jpg)
+![Brat](California_Park_Brat.jpg)
+
 
