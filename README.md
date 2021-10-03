@@ -10,5 +10,7 @@ This map displays several of the main data layers in California Park, Routt Nati
 ## Clear Creek Beaver Restoration Potential 
 This analysis shows the creek segments in Clear Creek drainage in Chaffee County, Colorado that may be conducive to restoration utilizing beaver reintroduction or beaver dam analogues.  
 ![ClearCreek](Project_Beaver_Restoration.jpg)
-
+## Turquoise Lake Nature Trail Viewshed 
+These map show the location of the Turquoise Lake Nature Trail near Leadville, Colorado, the main lookout point along the trail and the mountain peaks in view from the lookout.  
+![NatureTrail](Turqoise_Lake_NatureTrail_Viewshed)
 
