@@ -9,4 +9,4 @@ This map displays several of the main data layers in California Park, Routt Nati
 ![Brat](California_Park_Brat.jpg)
 ## Clear Creek Beaver Restoration Potential 
 This analysis shows the creek segments in Clear Creek drainage in Chaffee County, Colorado that may be conducive to restoration utilizing beaver reintroduction or beaver dam analogues.  
-![ClearCreek](Project_Beaver_Restoration)
+![ClearCreek](Project_Beaver_Restoration.jpg)
