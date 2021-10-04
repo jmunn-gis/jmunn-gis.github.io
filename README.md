@@ -36,6 +36,6 @@ This map analysis shows a Supervised Vegetation Classification of Steamboat Spri
 ![SteamboatClass](Steamboat_Supervised_Veg_Classification.jpg)
 ## Spatial Autocorrelation
 This map is an analysis of library patrons utilizing Spatial Autocorrelation.  
-![Autocorr](OleanderLibraryPatronAnalysis_SpatialAutocorr.jpg)
+![Autocorr](Library_Patron_Autocorr.jpg)
 
 
