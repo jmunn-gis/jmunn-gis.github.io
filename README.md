@@ -34,6 +34,8 @@ This map analysis shows the difference between the National Land Cover Database 
 ## Steamboat Springs Supervised Vegetation Classification
 This map analysis shows a Supervised Vegetation Classification of Steamboat Springs, Colorado. The data frames include the Maximum Likelihood Classification and Output Confidence.  
 ![SteamboatClass](Steamboat_Supervised_Veg_Classification.jpg)
-
+## Spatial Autocorrelation
+This map is an analysis of library patrons utilizing Spatial Autocorrelation.  
+![SpatAuto](OleandarLibraryPatronAnalysis_SpatialAutocorr)
 
 
