@@ -39,5 +39,5 @@ This map is an analysis of library patrons utilizing Spatial Autocorrelation.
 ![Autocorr](Library_Patron_Autocorr.jpg)
 ## Denver Population Density
 This map represents Denver metro area's population density by County. 
-!{DenverPop](Denver_Population_Density_County.jpg)
+![DenverPop](Denver_Population_Density_County.jpg)
 
