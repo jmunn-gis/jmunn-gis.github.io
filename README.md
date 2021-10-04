@@ -30,7 +30,7 @@ This map analysis utilizes the Normalized Difference Vegetation Index to show ve
 ![GrizzlyNDVI](GrizzlyCreek_NDVI.jpg)
 ## Grizzly Creek, Colorado Land Cover Classifications 
 This map analysis shows the difference between the National Land Cover Database Classification and an Unsupervised Land Cover Classification effort, in the Grizzly Creek area of Colorado.  
-![GrizzlyClass](GrizzlyCreek_Classification.jpg)
+![GrizzlyClass](GrizzyCreek_Classification.jpg)
 
 
 
