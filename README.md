@@ -25,6 +25,9 @@ This map shows the recreation highlights in the state of Colorado.
 ## Colorado Recreation Areas
 This map shows the main recreation areas in the state of Colorado.  
 ![ColRecAreas](Colorado_Recreation_Areas.jpg) 
+## Grizzly Creek, Colorado Pre and Post Fire NDVI
+This map analysis utilizes the Normalized Difference Vegetation Index to show vegetation changes post fire in the Grizzly Creek area of Colorado.  
+![GrizzlyNDVI](GrizzlyCreek_NDVI.jpg)
 
 
 
