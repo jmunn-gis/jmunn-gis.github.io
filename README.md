@@ -31,6 +31,9 @@ This map analysis utilizes the Normalized Difference Vegetation Index to show ve
 ## Grizzly Creek, Colorado Land Cover Classifications 
 This map analysis shows the difference between the National Land Cover Database Classification and an Unsupervised Land Cover Classification effort, in the Grizzly Creek area of Colorado.  
 ![GrizzlyClass](GrizzyCreek_Classification.jpg)
+## Steamboat Springs, Colorado Supervised Vegetation Classification
+This map analysis shows a Supervised Vegetation Classification of Steamboat Springs, Colorado. The data frames include the Maximum Likelihood Classification and Output Confidence.  
+![SteamboatClass](Steamboat_Supervised_Veg_Classification.jpg)
 
 
 
