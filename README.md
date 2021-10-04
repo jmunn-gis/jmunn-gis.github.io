@@ -34,10 +34,12 @@ This map analysis shows the difference between the National Land Cover Database 
 ## Steamboat Springs Supervised Vegetation Classification
 This map analysis shows a Supervised Vegetation Classification of Steamboat Springs, Colorado. The data frames include the Maximum Likelihood Classification and Output Confidence.  
 ![SteamboatClass](Steamboat_Supervised_Veg_Classification.jpg)
-## Spatial Autocorrelation
-This map is an analysis of library patrons utilizing Spatial Autocorrelation.  
-![Autocorr](Library_Patron_Autocorr.jpg)
 ## Denver Population Density
 This map represents the Denver metro area's population density by County. 
 ![DenverPop](Denver_Population_Density_County.jpg)
-
+## Spatial Autocorrelation
+This map is an analysis of library patrons utilizing Spatial Autocorrelation.  
+![Autocorr](Library_Patron_Autocorr.jpg)
+## United States Daily Temperatures by Interpolation
+These maps demonstrate the use of Interpolation methods to display the daily temperatures of the lower 48 of the U.S.  
+![Interpol](Lower_48_Interpolation.jpg)
