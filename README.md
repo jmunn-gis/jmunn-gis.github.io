@@ -25,13 +25,13 @@ This map shows the recreation highlights in the state of Colorado.
 ## Colorado Recreation Areas
 This map shows the main recreation areas in the state of Colorado.  
 ![ColRecAreas](Colorado_Recreation_Areas.jpg) 
-## Grizzly Creek, Colorado Pre and Post Fire NDVI
+## Grizzly Creek Pre and Post Fire NDVI
 This map analysis utilizes the Normalized Difference Vegetation Index to show vegetation changes post fire in the Grizzly Creek area of Colorado.  
 ![GrizzlyNDVI](GrizzlyCreek_NDVI.jpg)
-## Grizzly Creek, Colorado Land Cover Classifications 
+## Grizzly Creek Land Cover Classifications 
 This map analysis shows the difference between the National Land Cover Database Classification and an Unsupervised Land Cover Classification effort, in the Grizzly Creek area of Colorado.  
 ![GrizzlyClass](GrizzyCreek_Classification.jpg)
-## Steamboat Springs, Colorado Supervised Vegetation Classification
+## Steamboat Springs Supervised Vegetation Classification
 This map analysis shows a Supervised Vegetation Classification of Steamboat Springs, Colorado. The data frames include the Maximum Likelihood Classification and Output Confidence.  
 ![SteamboatClass](Steamboat_Supervised_Veg_Classification.jpg)
 
