@@ -19,6 +19,9 @@ This map analysis shows the change in tree cover that occured in White River Nat
 ## Lake County, Colorado Recreation 
 This map shows the recreation highlights in Lake County, Colorado.  
 ![LakeCounty](Lake_County_Recreation.jpg)
+## Colorado Recreation Highlights
+This map shows the recreation highlights in the state of Colorado.  
+![ColRecHigh](Colorado_Recreation_Highlights.jpg)
 
 
 
