@@ -46,3 +46,6 @@ These maps demonstrate the use of Interpolation methods to display the daily tem
 ## Lower 48 Wind Speeds
 This map depicts wind speeds of the Lower 48.  
 ![Wind](Lower_48_Wind_Speed.jpg)
+## Democratic Voting Percentage 
+This map depicts the percentage of the population by county within the Lower 48 that voted Democratic in 2016, using Natural Breaks classification.  
+![DemVote](Percentage_Voting.jpg)
