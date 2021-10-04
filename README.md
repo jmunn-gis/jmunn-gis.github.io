@@ -14,7 +14,7 @@ This analysis shows the creek segments in Clear Creek drainage in Chaffee County
 These map show the location of the Turquoise Lake Nature Trail near Leadville, Colorado, the main lookout point along the trail and the mountain peaks in view from the lookout.  
 ![NatureTrail](Turquoise_Lake_NatureTrail_Viewshed.jpg)
 ## White River National Forest Tree Cover 
-
+This map analysis shows the change in tree cover that occured in White River National Forest from 2000 to 2020.  
 !{WhiteRiver](White_River_National_Forest_Tree_Cover.jpg)
 
 
