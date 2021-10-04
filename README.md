@@ -16,7 +16,9 @@ These map show the location of the Turquoise Lake Nature Trail near Leadville, C
 ## White River National Forest Tree Cover 
 This map analysis shows the change in tree cover that occured in White River National Forest from 2000 to 2020.  
 ![WhiteRiver](White_River_National_Forest_Tree_Cover.jpg)
-
+## Lake County, Colorado Recreation 
+This map shows the recreation highlights in Lake County, Colorado.  
+![LakeCounty](Lake_County_Recreation.jpg)
 
 
 
