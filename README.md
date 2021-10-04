@@ -28,6 +28,9 @@ This map shows the main recreation areas in the state of Colorado.
 ## Grizzly Creek, Colorado Pre and Post Fire NDVI
 This map analysis utilizes the Normalized Difference Vegetation Index to show vegetation changes post fire in the Grizzly Creek area of Colorado.  
 ![GrizzlyNDVI](GrizzlyCreek_NDVI.jpg)
+## Grizzly Creek, Colorado Land Cover Classifications 
+This map analysis shows the difference between the National Land Cover Database Classification and an Unsupervised Land Cover Classification effort, in the Grizzly Creek area of Colorado.  
+![GrizzlyClass](GrizzlyCreek_Classification.jpg)
 
 
 
