@@ -22,6 +22,9 @@ This map shows the recreation highlights in Lake County, Colorado.
 ## Colorado Recreation Highlights
 This map shows the recreation highlights in the state of Colorado.  
 ![ColRecHigh](Colorado_Recreation_Highlights.jpg)
+## Colorado Recreation Areas
+This map shows the main recreation areas in the state of Colorado.  
+![ColRecAreas]{Colorado_Recreation_Areas.jpg) 
 
 
 
