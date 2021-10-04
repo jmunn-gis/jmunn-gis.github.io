@@ -40,6 +40,9 @@ This map represents the Denver metro area's population density by County.
 ## Spatial Autocorrelation
 This map is an analysis of library patrons utilizing Spatial Autocorrelation.  
 ![Autocorr](Library_Patron_Autocorr.jpg)
-## United States Daily Temperatures by Interpolation
+## Lower 48 Daily Temperatures by Interpolation
 These maps demonstrate the use of Interpolation methods to display the daily temperatures of the lower 48 of the U.S.  
 ![Interpol](Lower_48_Interpolation.jpg)
+## Lower 48 Wind Speeds
+This map depicts wind speeds of the Lower 48.  
+![Wind](Lower_48_Wind_Speed.jpg)
