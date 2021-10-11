@@ -4,7 +4,7 @@ I have been a student in the GIS program at Colorado Mountain College for the pa
 
 ## Leadville Dispersed Camping Map 
 This map was created for the U.S. Forest Service, Leadville Ranger District. It depicts the dispersed campsites near Twin Lakes recreation area in Lake County, Colorado. This map will be expanded upon as new campsite surveys are completed.  It will serve to inform the District's Dispersed Management Camping Plan initiated in 2022. 
-[DispersedCamp](LRD_Dispersed_Camping.jpg)
+![DispersedCamp](LRD_Dispersed_Camping.jpg)
 
 ## Bald Eagle Story Map
 The following is a story map that presents the narrative of the bald eagle's comeback in the state of Colorado.  This story map is available to the public and serves as an inspirational example of the importance of environmental stewardship and resource management.  
